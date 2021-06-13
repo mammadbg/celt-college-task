@@ -1,0 +1,19 @@
+.f-dialog {
+  z-index: 999;
+}
+
+.f-modal {
+  background: #fff;
+
+  &__header {
+    padding: 20px;
+  }
+
+  &__body {
+    padding: 20px;
+  }
+
+  &__footer {
+    padding: 20px;
+  }
+}

@@ -1,0 +1,86 @@
+export const categories = [
+    {
+      url: '/',
+      title: 'Dashboard',
+      icon: 'mdi-home-outline',
+      inDashboard: false,
+    },
+    {
+      url: '/dummyPage',
+      title: 'Check-in',
+      icon: 'mdi-calendar-blank',
+      inDashboard: true,
+    },
+    {
+      url: '/dummyPage',
+      title: 'Exams',
+      icon: 'mdi-ab-testing',
+      inDashboard: true,
+    },
+    {
+      url: '/examResults',
+      title: 'Exam results',
+      icon: 'mdi-chart-box',
+      inDashboard: true,
+    },
+    {
+      url: '/dummyPage',
+      title: 'Classes',
+      icon: 'mdi-octagram',
+      inDashboard: true,
+    },
+    {
+      url: '/dummyPage',
+      title: 'Homework',
+      icon: 'mdi-home-lightbulb',
+      inDashboard: true,
+    },
+    {
+      url: '/dummyPage',
+      title: 'HW Results',
+      icon: 'mdi-chart-box',
+      inDashboard: true,
+    },
+    {
+      url: '/dummyPage',
+      title: 'Certificate',
+      icon: 'mdi-certificate',
+      inDashboard: false,
+    },
+    {
+      url: '/dummyPage',
+      title: 'Resources',
+      icon: 'mdi-bag-checked',
+      inDashboard: true,
+    },
+    {
+      url: '/speakings',
+      title: 'Speakings',
+      icon: 'mdi-microphone',
+      inDashboard: true,
+    },
+    {
+      url: '/dummyPage',
+      title: 'Speaking Reviews',
+      icon: 'mdi-star',
+      inDashboard: true,
+    },
+    {
+      url: '/dummyPage',
+      title: 'Listenings',
+      icon: 'mdi-headphones',
+      inDashboard: true,
+    },
+    {
+      url: '/dummyPage',
+      title: 'Essays',
+      icon: 'mdi-file-document-multiple',
+      inDashboard: true,
+    },
+    {
+      url: '/dummyPage',
+      title: 'Essay Reviews',
+      icon: 'mdi-star',
+      inDashboard: true,
+    },
+  ];
